@@ -7,7 +7,6 @@ Currently i works in Sobex [IT Department].
 ## :gem: Favourite programming languages :gem:
 1. C# [Desktop]
 2. T-SQL\SQL
-3. CSS/HTML/JS/SCSS [FrontEnd]
 
 ## :cyclone: Pro Experience :cyclone:
 - 2y KETTLER
