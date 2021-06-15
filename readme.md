@@ -1,7 +1,7 @@
 # Hello :wave:
 
 ## :space_invader: CavalornGothic :space_invader:
-Arkadiusz, 25yo. I'm 2rd y student - The Jacob of Paradise University (Spec: Web Apps).
+Arkadiusz, 25yo. I'm 2rd y student - The Jacob of Paradise University (Spec: Apps programming).
 Currently i works in Sobex [IT Department].
 
 ## :gem: Favourite programming languages :gem:
